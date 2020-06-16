@@ -49,4 +49,4 @@ conda install tensorflow-gpu=1.13
 ## Note:
 `environment.yml` is a list of the developer's Python environment used during development.  It contains more software than is required, but can be manually consulted for package version numbers, should the need arise.  Most users will not need this file.
 
-https://zenodo.org/badge/250016240.svg
+<a href="https://zenodo.org/badge/latestdoi/250016240"><img src="https://zenodo.org/badge/250016240.svg" alt="DOI"></a>
